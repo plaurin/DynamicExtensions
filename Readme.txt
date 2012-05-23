@@ -1,0 +1,1 @@
+This project is for extension methods and utilities to create Views, ViewModels and Models dynamically using the dynamic keyword.
